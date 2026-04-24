@@ -15,6 +15,9 @@ This project implements a machine learning model to predict employee salaries ba
 - Matplotlib
 - Scikit-learn
 
+## 📊 Data Visualization
+![Experience vs Salary](salary_plot.png)
+
 ## ▶️ How to Run
 1. Install dependencies:
 ```bash
@@ -23,9 +26,6 @@ python main.py
 
 📊 Dataset
 https://github.com/ybifoundation/Dataset/blob/main/Salary%20Data.csv
-
-📊 Data Visualization
-![Experience vs Salary](salary_plot.png)
 
 📈 Model
 Linear Regression is used to predict salary based on years of experience.
