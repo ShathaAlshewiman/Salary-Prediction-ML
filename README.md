@@ -24,5 +24,8 @@ python main.py
 📊 Dataset
 https://github.com/ybifoundation/Dataset/blob/main/Salary%20Data.csv
 
+📊 Data Visualization
+![Experience vs Salary](salary_plot.png)
+
 📈 Model
 Linear Regression is used to predict salary based on years of experience.
